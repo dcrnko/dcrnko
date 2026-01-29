@@ -44,7 +44,7 @@ I’ve moved from "fixing" systems to "building" them.
 ### 📜 Certifications
 * **AWS Cloud Practitioner** - *Amazon Web Services*
 * **CKA** (Certified Kubernetes Administrator) - *The Linux Foundation*
-* **SCA** (SUSE Linux Certified Administrator) - *SUSE*
+* **SCA** (SUSE Linux Certified Administrator) - *SUSE Linux Enterprise*
 * **MSc. Computing** ---
 
 ### 📬 Connect with me
