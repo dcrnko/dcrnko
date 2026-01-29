@@ -9,9 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Cloud Platform Engineer** with a deep-rooted history in the Linux ecosystem. My journey began in the trenches of enterprise-level troubleshooting at **SUSE**, where I supported some of the world's largest IT infrastructures. 
-
-Today, I bridge the gap between legacy stability and modern cloud agility, specializing in automation, container orchestration, and the art of the perfect AI prompt.
+I am a **Cloud Platform Engineer** with a deep-rooted history in the Linux ecosystem. My journey began in the trenches of enterprise-level troubleshooting. 
 
 - 🔭 **Currently working as:** Cloud Platform Engineer
 - 🧠 **Enthusiastic in:** Automating workflows and building cloud infrastrucutres
@@ -31,8 +29,9 @@ Today, I bridge the gap between legacy stability and modern cloud agility, speci
 ---
 
 ### 📜 Certifications
-* **CKA** (Certified Kubernetes Administrator) - *The Linux Foundation*
 * **AWS Cloud Practitioner** - *Amazon Web Services*
+* **CKA** (Certified Kubernetes Administrator) - *The Linux Foundation*
+* **SCA** (SUSE Linux Certified Administrator) - *SUSE*
 * **MSc. Computing** 
 
 ---
