@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cloud%20Platform%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AWS%20%26%20IaC-orange?style=for-the-badge&logo=kubernetes" />
   <img src="https://img.shields.io/badge/Specialty-SUSE%20Linux-green?style=for-the-badge&logo=suse" />
-  <img src="https://img.shields.io/badge/Focus-Kubernetes%20%26%20IaC-orange?style=for-the-badge&logo=kubernetes" />
 </p>
 
 ---
