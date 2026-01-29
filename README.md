@@ -11,6 +11,18 @@
 ### 👨‍💻 About Me
 I am a **Cloud Platform Engineer** with a deep-rooted history in the Linux ecosystem. My journey began in the trenches of enterprise-level troubleshooting. 
 
+These days, I’m focusing on building the kind of infrastructure that doesn't keep people awake at night.
+
+---
+
+### 🛠️ What I’m up to
+I’ve moved from "fixing" systems to "building" them.
+
+* **Infrastructure as Code:** I spend a lot of my time in **Terraform** and **Ansible** turning manual tasks into repeatable code.
+* **AWS & Containers:** Building out scalable environments where **containers** actually behave themselves.
+* **CI/CD:** Designing pipelines so that code gets where it needs to go without the drama.
+---
+
 - 🔭 **Currently working as:** Cloud Platform Engineer
 - 🧠 **Enthusiastic in:** Automating workflows and building cloud infrastrucutres
 - 🎓 **Education:** MSc. Computing 
