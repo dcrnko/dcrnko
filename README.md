@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Cloud Platform Engineer** with a deep-rooted history in the Linux ecosystem. My journey began in the trenches of enterprise-level troubleshooting. 
+I am a **Cloud Platform Engineer** with a history in the Linux System Administration. My journey began in the trenches of enterprise-level troubleshooting. 
 
 These days, I’m focusing on building the kind of infrastructure that doesn't keep people awake at night.
 
