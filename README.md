@@ -45,11 +45,11 @@ I’ve moved from "fixing" systems to "building" them.
 
 | Certification | Issuer | Verification |
 |--------------|--------|--------------|
-| ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) **AWS Certified Cloud Practitioner** | Amazon Web Services | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
-| ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg) **CKA – Certified Kubernetes Administrator** | The Linux Foundation | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
-| ![SUSE](https://upload.wikimedia.org/wikipedia/commons/0/0b/SUSE_Logo.svg) **SCA – SUSE Certified Administrator** | SUSE | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
+| ![AWS](https://img.icons8.com/color/32/amazon-web-services.png) **AWS Certified Cloud Practitioner** | Amazon Web Services | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
+| ![Kubernetes](https://img.icons8.com/color/32/kubernetes.png) **CKA – Certified Kubernetes Administrator** | The Linux Foundation | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
+| ![SUSE](https://img.icons8.com/color/32/suse.png) **SCA – SUSE Certified Administrator** | SUSE | 🔗 [Verify](YOUR_VERIFICATION_LINK) |
 | 🎓 **MSc. Computing** | University Degree | 🔗 [Details](YOUR_LINK) |
- ---
+---
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-crnko)
