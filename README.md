@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cloud%20Platform%20Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AWS%20%26%20IaC-orange?style=for-the-badge&logo=terraform" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
