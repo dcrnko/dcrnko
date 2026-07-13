@@ -48,7 +48,7 @@ I’ve moved from "fixing" systems to "building" them.
 | ![AWS](https://img.icons8.com/color/32/amazon-web-services.png) **AWS Certified Cloud Practitioner** | Amazon Web Services | 🔗 [Verify](https://www.credly.com/badges/38e3cba5-e3b4-4190-b3c2-cf104f56ecbc/public_url) |
 | ![Kubernetes](https://img.icons8.com/color/32/kubernetes.png) **CKA – Certified Kubernetes Administrator** | The Linux Foundation | 🔗 [Verify](https://www.credly.com/badges/3bc24482-0f90-43ca-b09c-714883c9487a/public_url) |
 | ![GitLab](https://img.icons8.com/color/32/gitlab.png) **GitLab Certified Associate in CI/CD** | GitLab | 🔗 [Verify](https://www.credly.com/badges/ca919ef8-433c-451b-b7d0-fe373bfaaad8) |
-| ![SUSE](https://img.icons8.com/color/32/suse.png) **SUSE Certified Administrator in SUSE Manager 4** | SUSE | 🔗 [Verify](https://suse.useclarus.com/))<br><small>ID: 1307 \| Issued: 2023-06-29</small> |
+| ![SUSE](https://img.icons8.com/color/32/suse.png) **SUSE Certified Administrator in SUSE Manager 4** | SUSE | 🔗 [Verify](https://suse.useclarus.com/)<br><small>ID: 1307 \| Issued: 2023-06-29</small> |
 | 🎓 **MSc. Computing** | University Degree | 🔗 [Details](https://www.sunderland.ac.uk/postgraduate/msc-computing?option=2285b9b7-b155-4b51-a010-8057d677875b) |
 
 ---
